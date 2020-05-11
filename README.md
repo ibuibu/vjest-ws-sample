@@ -4,7 +4,7 @@
 
 観客の操作信号を[OSC](http://opensoundcontrol.org/introduction-osc)に変換する、WebScoketサーバーを立ち上げるスクリプトです。
 
-### 利用方法
+## 利用方法
 
 ### 必要環境
 node.jsがインストールされている環境が必要です。
